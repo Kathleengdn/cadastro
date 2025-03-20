@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTku8Zlru_nXuYXL8NxypHbWcuifkCv2G88fg&s) ;
+}
+.container {
+    background:url(img/fundo.container.jpg);
+    padding: 20px;
+    border-radius: 20px 20px ;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    align-items: center;
+}
+input {
+    display: block;
+    align-items: center;
+    width: 90%;
+    margin: 40px 0;
+    padding: 5px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #218838;
+}
