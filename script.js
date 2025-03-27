@@ -9,5 +9,5 @@ document.getElementById("form").addEventListener("submit", function(event) {
         return;
     }
     
-    alert("Cadastro realizado com sucesso!");
+    
 });

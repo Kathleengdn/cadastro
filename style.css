@@ -4,10 +4,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTku8Zlru_nXuYXL8NxypHbWcuifkCv2G88fg&s) ;
+    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyloview.com.br%2Fadesivo-fundo-branco-marmore-textura-da-parede-no-49C9480&psig=AOvVaw1m2D2TDiDZyLn_jXCfZQR0&ust=1743189826617000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDo3qr-qowDFQAAAAAdAAAAABAE) ;
 }
 .container {
-    background:url(img/fundo.container.jpg);
+    background:url();
     padding: 20px;
     border-radius: 20px 20px ;
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
@@ -30,4 +30,7 @@ button {
 }
 button:hover {
     background-color: #218838;
+}
+a{
+    text-decoration: none;
 }
